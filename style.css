@@ -1,0 +1,82 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.headerleft
+{
+    float:left;
+    margin: 10px;
+    font-size: 15px;
+}
+
+.headerright
+{
+    float:right;
+}
+
+
+.header b, .headerright button
+{
+    margin: 10px;
+    color: #000;
+    text-decoration: none;
+}
+
+.headerright button 
+{
+    background: #4484f1;
+    padding: 3px;
+    font-size: 15px;
+    color: #fff;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.main 
+{
+    text-align: center;
+    
+}
+
+.logo img
+{
+    margin-top: 20%;
+    margin-left: auto;
+    width: 250px;
+    height: 100px;
+}
+
+
+.search input
+{
+
+    height: 20px;
+    width: 444px;
+
+}
+
+
+.footerleft 
+{
+
+    bottom: 8px;
+    left: 16pz;
+    margin-top:300px;
+    padding: 20px;
+    float: left;
+    bottom:0;
+}
+
+.footerright
+{
+
+    bottom: 8px;
+    right: 16px;
+    margin-top: 300px;
+    padding: 20px;
+    float:right;
+    bottom:0;
+}
