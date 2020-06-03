@@ -62,10 +62,9 @@ body
 .footerleft 
 {
 
-    bottom: 8px;
     left: 16pz;
-    margin-top:300px;
     padding: 20px;
+    margin-top:325px;
     float: left;
     bottom:0;
 }
@@ -73,10 +72,11 @@ body
 .footerright
 {
 
-    bottom: 8px;
     right: 16px;
-    margin-top: 300px;
     padding: 20px;
+    margin-top: 325px;
     float:right;
     bottom:0;
 }
+
+
